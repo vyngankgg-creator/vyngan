@@ -1,0 +1,7 @@
+{
+  "name": "ZenStudio - AI Pedestal Showcase",
+  "description": "A premium AI tool to showcase products on wooden pedestals with realistic environment generation and perspective correction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
